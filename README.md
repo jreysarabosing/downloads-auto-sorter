@@ -4,6 +4,7 @@ A basic script that will automatically sort files in your download's folder base
 WORK IN PROGRESS
 
 ## Features
-- ✅Reads files from your Downloads folder
-- ⚠Sorts files depending on file type to appropriate folder
-- ⛔Will automatically sort new files that are downloaded
+- ✅ Reads files from your Downloads folder
+- ✅ Sorts files depending on file type to appropriate folder
+- ⛔ Will automatically sort new files that are downloaded
+- ⛔ If file exists, will ask user if they want to replace or cancel operation
